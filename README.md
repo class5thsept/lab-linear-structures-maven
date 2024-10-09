@@ -4,6 +4,7 @@ Authors:
 
 * Samuel A. Rebelsky
 * Leonardo Alves Nunes
+* Sal Karki
 * Jenifer Silva
 
 The latest version of the CSC-207 lab on linear structures, now with Maven.
