@@ -4,6 +4,7 @@ Authors:
 
 * Samuel A. Rebelsky
 * Leonardo Alves Nunes
+* Sal Karki
 * Jenifer Silva
 * Sal Karki
 
